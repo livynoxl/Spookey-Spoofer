@@ -1,0 +1,12 @@
+C:\Users\MMLo7\source\repos\Spooky Spoofer\Spooky Spoofer\bin\Release\Spooky Spoofer.exe.config
+C:\Users\MMLo7\source\repos\Spooky Spoofer\Spooky Spoofer\bin\Release\Spooky Spoofer.exe
+C:\Users\MMLo7\source\repos\Spooky Spoofer\Spooky Spoofer\bin\Release\Spooky Spoofer.pdb
+C:\Users\MMLo7\source\repos\Spooky Spoofer\Spooky Spoofer\bin\Release\Guna.UI2.dll
+C:\Users\MMLo7\source\repos\Spooky Spoofer\Spooky Spoofer\obj\Release\Spooky Spoofer.csproj.AssemblyReference.cache
+C:\Users\MMLo7\source\repos\Spooky Spoofer\Spooky Spoofer\obj\Release\Spooky_Spoofer.Form1.resources
+C:\Users\MMLo7\source\repos\Spooky Spoofer\Spooky Spoofer\obj\Release\Spooky_Spoofer.Properties.Resources.resources
+C:\Users\MMLo7\source\repos\Spooky Spoofer\Spooky Spoofer\obj\Release\Spooky Spoofer.csproj.GenerateResource.cache
+C:\Users\MMLo7\source\repos\Spooky Spoofer\Spooky Spoofer\obj\Release\Spooky Spoofer.csproj.CoreCompileInputs.cache
+C:\Users\MMLo7\source\repos\Spooky Spoofer\Spooky Spoofer\obj\Release\Spooky Spoofer.csproj.CopyComplete
+C:\Users\MMLo7\source\repos\Spooky Spoofer\Spooky Spoofer\obj\Release\Spooky Spoofer.exe
+C:\Users\MMLo7\source\repos\Spooky Spoofer\Spooky Spoofer\obj\Release\Spooky Spoofer.pdb
